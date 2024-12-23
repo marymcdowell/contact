@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #010101;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="244.93" cy="263.18" rx="194.03" ry="190.3"/>
+  <g>
+    <polygon class="cls-2" points="199.46 267.09 126.21 331.96 126.21 195.06 199.46 267.09"/>
+    <polygon class="cls-2" points="363.65 195.06 363.65 331.96 290.41 267.09 363.65 195.06"/>
+    <polygon class="cls-2" points="363.65 344.94 126.21 344.94 206.4 273.92 213.35 280.75 244.93 311.81 276.52 280.75 283.46 273.92 363.65 344.94"/>
+    <polygon class="cls-2" points="363.65 181.42 283.11 260.62 276.16 267.45 244.93 298.16 213.7 267.45 206.76 260.62 126.21 181.42 363.65 181.42"/>
+  </g>
+</svg>
